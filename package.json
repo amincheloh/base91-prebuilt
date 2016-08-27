@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "nan": "^2.1.0"
   },
   "engines": { "node" : ">=6.4.0" },

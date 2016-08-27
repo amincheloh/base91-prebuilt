@@ -1,1 +1,5 @@
 benchmark/
+deps/
+src/
+binding.gyp
+
