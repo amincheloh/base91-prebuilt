@@ -1,4 +1,5 @@
 benchmark/
+build/
 deps/
 src/
 binding.gyp
