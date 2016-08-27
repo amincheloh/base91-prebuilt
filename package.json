@@ -9,7 +9,7 @@
   "dependencies": {
     "nan": "^2.1.0"
   },
-  "engines": { "node" : ">=0.8.0" },
+  "engines": { "node" : ">=6.4.0" },
   "keywords": [ "base91", "encoding", "decoding", "encoder", "decoder" ],
   "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/base91.js/raw/master/LICENSE" } ],
   "repository": { "type": "git", "url": "http://github.com/mscdex/base91.js.git" }

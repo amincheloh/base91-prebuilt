@@ -9,7 +9,7 @@ More information about the base91 algorithm itself can be found [here](http://ba
 Requirements
 ============
 
-* [node.js](http://nodejs.org/) -- v0.8.0 or newer, or any browser
+* [node.js](http://nodejs.org/) -- v6.4.0 or newer
 
 
 Installation
