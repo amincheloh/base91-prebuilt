@@ -1,6 +1,6 @@
-{ "name": "base91",
+{ "name": "base91-prebuilt",
   "version": "0.0.5",
-  "author": "Brian White <mscdex@mscdex.net>",
+  "author": "Amin Cheloh <nineamin@hotmail.com>",
   "description": "base91 implementation in javascript for node.js and browsers",
   "main": "./lib/base91",
   "scripts": {
