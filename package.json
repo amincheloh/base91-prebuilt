@@ -12,5 +12,5 @@
   "engines": { "node" : ">=6.4.0" },
   "keywords": [ "base91", "encoding", "decoding", "encoder", "decoder" ],
   "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/base91.js/raw/master/LICENSE" } ],
-  "repository": { "type": "git", "url": "http://github.com/mscdex/base91.js.git" }
+  "repository": { "type": "git", "url": "https://github.com/amincheloh/base91-prebuilt.git" }
 }
