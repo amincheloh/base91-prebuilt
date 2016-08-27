@@ -5,6 +5,7 @@ base91.js is a base91 implementation in javascript that allows encoding/decoding
 
 More information about the base91 algorithm itself can be found [here](http://base91.sourceforge.net/).
 
+If this module not working for you please consider use upstream [base91](https://github.com/mscdex/base91.js).
 
 Requirements
 ============
@@ -15,14 +16,14 @@ Requirements
 Installation
 ============
 
-    npm install base91
+    npm install base91-prebuilt
 
 
 Example
 =======
 
 ```javascript
-var base91 = require('base91');
+var base91 = require('base91-prebuilt');
 
 console.log(base91.encode('node.js rules!'));
 console.log(base91.decode(base91.encode('node.js rules!')).toString());
