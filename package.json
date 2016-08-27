@@ -1,5 +1,5 @@
 { "name": "base91-prebuilt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Amin Cheloh <nineamin@hotmail.com>",
   "description": "base91 implementation in javascript for node.js and browsers",
   "main": "./lib/base91",
